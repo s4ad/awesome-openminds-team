@@ -67,6 +67,7 @@ A collection of awesome useful and awesome links, resources and shiny things for
 * [The Odin Project](http://www.theodinproject.com/)
 * [Superhero.js](http://superherojs.com/)
 * [DevDocs](http://devdocs.io/) multiple API documentations
+* [Js Stack From Scratch](https://github.com/verekia/js-stack-from-scratch) a minimalistic and straight-to-the-point guide to assembling a JavaScript stack
 
 ### Open Hardware
 * [Autodesk Circuits](https://circuits.io/) A web-based Arduino simulator
